@@ -1,2 +1,3 @@
 # keyboard-profiles
-My custom profiles for mechanical keyboards
+
+Custom profiles for my mechanical keyboards
